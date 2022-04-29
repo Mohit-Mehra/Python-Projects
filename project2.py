@@ -10,7 +10,7 @@ from scipy.stats import t
 def bio():
     root = Tk()
     root.title("Binomial distribution Calculator")
-    root.geometry("800x400")
+    root.geometry("800x600")
 
     def val():
         if trial_entry.get() and prob_entry.get():
