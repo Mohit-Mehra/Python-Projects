@@ -1,5 +1,5 @@
 from time import time
-
+#hv
 def typingErrors(prompt):
     global iwords
 
